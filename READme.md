@@ -31,7 +31,7 @@ $ Make changes where need be.
 This webpage is documented and designed around the behavior a user expects to experience when interacting with it.
 
 - When the user enters the input on the form, upon submit the user will be able to see their input on the result story.
--- The user can refresh the page and fill the form again.
+- The user can refresh the page and fill the form again.
 
 ## Technologies
 * HTML - HTML is the standard markup language for Web pages.
