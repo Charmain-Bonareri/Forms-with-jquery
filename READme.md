@@ -1,4 +1,4 @@
-# Ghanian-Akan-Names-Calculator
+# Story-Telling-Time
 
 This is a web application that takes allows a user to enter input based on the questions given in the form and generate a story after they submit. The idea is to pick bizarre words without knowing what the story is, and then when you fill them in, the results can be hilarious. 
 
