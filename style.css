@@ -20,5 +20,8 @@ body{
 .head1{
     font-weight: bold;
     text-align: center;
-    padding: 30px;
+    padding: 20px;
+}
+.head2{
+    text-align: center;
 }
